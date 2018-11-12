@@ -19,7 +19,7 @@ import datetime
 from google.cloud import datastore
 from flask import Flask
 
-project_id = "iotj-222300"
+project_id = "attendanceapp-222303"
 
 app = Flask(__name__)
 
